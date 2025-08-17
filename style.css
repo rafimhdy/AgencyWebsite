@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 5.5rem;
+  font-size: 4rem;
   
 }
 
@@ -38,12 +38,16 @@ footer {
 
 .tile-image {
   width: 35%;
+  height: 200px;
   float: left;
   margin-right: 20px;
+  object-fit: none;
 }
 
 .card {
-  width: 50%;
+  width: 45%;
+  text-align: justify;
+  margin-right: 10px;
 }
 
 
